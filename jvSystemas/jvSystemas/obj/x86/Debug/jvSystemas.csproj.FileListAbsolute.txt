@@ -1,0 +1,40 @@
+C:\Users\João Vitor\Documents\Visual Studio 2010\Projects\jvSystemas\jvSystemas\bin\Debug\jvSystemas.exe
+C:\Users\João Vitor\Documents\Visual Studio 2010\Projects\jvSystemas\jvSystemas\bin\Debug\jvSystemas.pdb
+C:\Users\João Vitor\Documents\Visual Studio 2010\Projects\jvSystemas\jvSystemas\obj\x86\Debug\jvSystemas.frmSplash.resources
+C:\Users\João Vitor\Documents\Visual Studio 2010\Projects\jvSystemas\jvSystemas\obj\x86\Debug\jvSystemas.Properties.Resources.resources
+C:\Users\João Vitor\Documents\Visual Studio 2010\Projects\jvSystemas\jvSystemas\obj\x86\Debug\jvSystemas.csproj.GenerateResource.Cache
+C:\Users\João Vitor\Documents\Visual Studio 2010\Projects\jvSystemas\jvSystemas\obj\x86\Debug\jvSystemas.exe
+C:\Users\João Vitor\Documents\Visual Studio 2010\Projects\jvSystemas\jvSystemas\obj\x86\Debug\jvSystemas.pdb
+C:\Users\João Vitor\Documents\Visual Studio 2010\Projects\jvSystemas\jvSystemas\obj\x86\Debug\jvSystemas.frmPrincipal.resources
+C:\Users\João Vitor\Documents\Visual Studio 2010\Projects\jvSystemas\jvSystemas\obj\x86\Debug\jvSystemas.csprojResolveAssemblyReference.cache
+C:\Users\João Vitor\Documents\Visual Studio 2010\Projects\jvSystemas\jvSystemas\bin\Debug\MySql.Data.dll
+C:\Users\João Vitor\Documents\Visual Studio 2010\Projects\jvSystemas\jvSystemas\bin\Debug\MySqlBackup.dll
+C:\Users\João Vitor\Documents\Visual Studio 2010\Projects\jvSystemas\jvSystemas\obj\x86\Debug\jvSystemas.frmLogin.resources
+C:\Users\João Vitor\Documents\Visual Studio 2010\Projects\jvSystemas\jvSystemas\obj\x86\Debug\jvSystemas.frmCadFormasDePagamento.resources
+C:\Users\João Vitor\Documents\Visual Studio 2010\Projects\jvSystemas\jvSystemas\obj\x86\Debug\jvSystemas.frmListaFormaDePagamento.resources
+G:\Sistemas\jvSystemas\jvSystemas\obj\x86\Debug\jvSystemas.exe
+G:\Sistemas\jvSystemas\jvSystemas\obj\x86\Debug\jvSystemas.pdb
+G:\Sistemas\jvSystemas\jvSystemas\bin\Debug\jvSystemas.exe
+G:\Sistemas\jvSystemas\jvSystemas\bin\Debug\jvSystemas.pdb
+G:\Sistemas\jvSystemas\jvSystemas\bin\Debug\MySqlBackup.dll
+G:\Sistemas\jvSystemas\jvSystemas\obj\x86\Debug\jvSystemas.csprojResolveAssemblyReference.cache
+G:\Sistemas\jvSystemas\jvSystemas\obj\x86\Debug\jvSystemas.frmCadFormasDePagamento.resources
+G:\Sistemas\jvSystemas\jvSystemas\obj\x86\Debug\jvSystemas.frmListaFormaDePagamento.resources
+G:\Sistemas\jvSystemas\jvSystemas\obj\x86\Debug\jvSystemas.frmLogin.resources
+G:\Sistemas\jvSystemas\jvSystemas\obj\x86\Debug\jvSystemas.frmPrincipal.resources
+G:\Sistemas\jvSystemas\jvSystemas\obj\x86\Debug\jvSystemas.frmSplash.resources
+G:\Sistemas\jvSystemas\jvSystemas\obj\x86\Debug\jvSystemas.Properties.Resources.resources
+G:\Sistemas\jvSystemas\jvSystemas\obj\x86\Debug\jvSystemas.csproj.GenerateResource.Cache
+L:\Sistemas\jvSystemas\jvSystemas\obj\x86\Debug\jvSystemas.exe
+L:\Sistemas\jvSystemas\jvSystemas\obj\x86\Debug\jvSystemas.pdb
+L:\Sistemas\jvSystemas\jvSystemas\bin\Debug\jvSystemas.exe
+L:\Sistemas\jvSystemas\jvSystemas\bin\Debug\jvSystemas.pdb
+L:\Sistemas\jvSystemas\jvSystemas\bin\Debug\MySqlBackup.dll
+L:\Sistemas\jvSystemas\jvSystemas\obj\x86\Debug\jvSystemas.csprojResolveAssemblyReference.cache
+L:\Sistemas\jvSystemas\jvSystemas\obj\x86\Debug\jvSystemas.frmCadFormasDePagamento.resources
+L:\Sistemas\jvSystemas\jvSystemas\obj\x86\Debug\jvSystemas.frmListaFormaDePagamento.resources
+L:\Sistemas\jvSystemas\jvSystemas\obj\x86\Debug\jvSystemas.frmLogin.resources
+L:\Sistemas\jvSystemas\jvSystemas\obj\x86\Debug\jvSystemas.frmPrincipal.resources
+L:\Sistemas\jvSystemas\jvSystemas\obj\x86\Debug\jvSystemas.frmSplash.resources
+L:\Sistemas\jvSystemas\jvSystemas\obj\x86\Debug\jvSystemas.Properties.Resources.resources
+L:\Sistemas\jvSystemas\jvSystemas\obj\x86\Debug\jvSystemas.csproj.GenerateResource.Cache
