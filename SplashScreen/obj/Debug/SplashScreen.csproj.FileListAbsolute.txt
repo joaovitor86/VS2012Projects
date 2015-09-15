@@ -1,0 +1,8 @@
+C:\Users\joaovitor\Desktop\SplashScreen\bin\Debug\SplashScreen.exe
+C:\Users\joaovitor\Desktop\SplashScreen\bin\Debug\SplashScreen.pdb
+C:\Users\joaovitor\Desktop\SplashScreen\obj\Debug\SplashScreen.csprojResolveAssemblyReference.cache
+C:\Users\joaovitor\Desktop\SplashScreen\obj\Debug\SplashScreen.frmSplash.resources
+C:\Users\joaovitor\Desktop\SplashScreen\obj\Debug\SplashScreen.Properties.Resources.resources
+C:\Users\joaovitor\Desktop\SplashScreen\obj\Debug\SplashScreen.csproj.GenerateResource.Cache
+C:\Users\joaovitor\Desktop\SplashScreen\obj\Debug\SplashScreen.exe
+C:\Users\joaovitor\Desktop\SplashScreen\obj\Debug\SplashScreen.pdb

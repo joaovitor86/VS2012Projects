@@ -1,0 +1,9 @@
+c:\users\joaovitor\documents\visual studio 2012\Projects\TesteRelatorios\TesteRelatorios\bin\Debug\TesteRelatorios.exe.config
+c:\users\joaovitor\documents\visual studio 2012\Projects\TesteRelatorios\TesteRelatorios\bin\Debug\TesteRelatorios.exe
+c:\users\joaovitor\documents\visual studio 2012\Projects\TesteRelatorios\TesteRelatorios\bin\Debug\TesteRelatorios.pdb
+c:\users\joaovitor\documents\visual studio 2012\Projects\TesteRelatorios\TesteRelatorios\obj\Debug\TesteRelatorios.csprojResolveAssemblyReference.cache
+c:\users\joaovitor\documents\visual studio 2012\Projects\TesteRelatorios\TesteRelatorios\obj\Debug\TesteRelatorios.Form1.resources
+c:\users\joaovitor\documents\visual studio 2012\Projects\TesteRelatorios\TesteRelatorios\obj\Debug\TesteRelatorios.Properties.Resources.resources
+c:\users\joaovitor\documents\visual studio 2012\Projects\TesteRelatorios\TesteRelatorios\obj\Debug\TesteRelatorios.csproj.GenerateResource.Cache
+c:\users\joaovitor\documents\visual studio 2012\Projects\TesteRelatorios\TesteRelatorios\obj\Debug\TesteRelatorios.exe
+c:\users\joaovitor\documents\visual studio 2012\Projects\TesteRelatorios\TesteRelatorios\obj\Debug\TesteRelatorios.pdb
